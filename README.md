@@ -1,6 +1,6 @@
 # A simple Directed acyclic graph (DAG) and Apache storm setting
 
-1. Cameras/Image folders Codes: src/spouts
+1. Cameras/Image folders Codes: src/spouts 
 -Spouts: read source images and get image's byte-string (use base64.encodebytes)
 
 2. Computation Tasks Codes: src/bolts
